@@ -1,0 +1,122 @@
+[
+  {
+    "slug": "business-automation",
+    "name": "AI Business Automation",
+    "stage": "exploration",
+    "status": "Exploration",
+    "field": "Business systems",
+    "description": "Less repetitive work. More room for human decisions.",
+    "audience": "Small teams and growing businesses reviewing repetitive administrative work.",
+    "focus": [
+      "Workflow discovery and process mapping",
+      "Human review points and clear handoffs",
+      "Small, measurable automation pilots"
+    ],
+    "limit": "A program in exploration. No connected business systems, live automation service or unattended external action is demonstrated by this website."
+  },
+  {
+    "slug": "rapidweb-ai",
+    "name": "RapidWeb AI",
+    "stage": "prototype",
+    "status": "Prototype",
+    "field": "Web engineering",
+    "description": "Purposeful websites for businesses with something to say.",
+    "audience": "Independent businesses, founders and teams exploring a new website or landing page.",
+    "focus": [
+      "Website and landing-page design",
+      "Clear content, responsive layouts and accessibility",
+      "Defined scope, reviewable deliverables and testing"
+    ],
+    "limit": "Prototype-stage program. The public corporate website is the supplied website example; it is not proof of paying clients, automatic bespoke delivery or a launched commercial platform."
+  },
+  {
+    "slug": "billahead",
+    "name": "BillAhead",
+    "stage": "prototype",
+    "status": "Prototype",
+    "field": "Billing workflows",
+    "description": "A clearer view of bills, reminders and the work between.",
+    "audience": "Small businesses exploring more organized billing and reminder processes.",
+    "focus": [
+      "Billing workflow and payment-status concepts",
+      "Reminder organization and review",
+      "Clear records for responsible follow-up"
+    ],
+    "limit": "Prototype-stage exploration of billing workflows. No payment processing, financial advice, bank integration or guaranteed collection result is offered."
+  },
+  {
+    "slug": "medscan",
+    "name": "MedScan",
+    "stage": "prototype",
+    "status": "Demo stage",
+    "field": "Clinic operations",
+    "description": "Thoughtful tools for the everyday work of a clinic.",
+    "audience": "Clinics and diagnostic centers evaluating appointment and administrative workflows.",
+    "focus": [
+      "Appointment and operational workflow concepts",
+      "Approachable administrative interfaces",
+      "Scoped discovery of clinic coordination needs"
+    ],
+    "limit": "An administrative workflow concept, not diagnosis, clinical decision support or a medical device. No patient-data integration, regulatory compliance or clinical outcome is claimed."
+  },
+  {
+    "slug": "agentsentinel",
+    "name": "AgentSentinel",
+    "stage": "prototype",
+    "status": "Local prototype",
+    "field": "Agent governance",
+    "description": "More capable agents need clearer boundaries.",
+    "audience": "Builders investigating authorization, review and accountability in AI-agent systems.",
+    "focus": [
+      "Scoped authorization and permission boundaries",
+      "Human approvals for consequential actions",
+      "Traceable review and security research"
+    ],
+    "limit": "Local prototype and research direction. This website exposes no private security system and promises no certification, penetration-test result or guarantee against compromise."
+  },
+  {
+    "slug": "jarvis",
+    "name": "JARVIS Voice",
+    "stage": "prototype",
+    "status": "In development",
+    "field": "Bilingual experiences",
+    "description": "Helpful interactions, in Telugu and English.",
+    "audience": "People and teams exploring more accessible bilingual assistant experiences.",
+    "focus": [
+      "Telugu and English interaction concepts",
+      "Accessible task support and voice interfaces",
+      "Explicit permission for microphone and service use"
+    ],
+    "limit": "In development. No live voice assistant, always-on microphone, verified speech accuracy or connected personal account is available on this public website."
+  },
+  {
+    "slug": "placement-internships",
+    "name": "Placement & Internships",
+    "stage": "exploration",
+    "status": "Exploration",
+    "field": "Early careers",
+    "description": "A more transparent path from opportunity to application.",
+    "audience": "Students, early-career applicants and institutions examining opportunity workflows.",
+    "focus": [
+      "Opportunity and application organization",
+      "Clearer early-career progress information",
+      "Responsible exploration of matching workflows"
+    ],
+    "limit": "An exploratory product program, not a recruitment agency, live job board or promise of an internship, admission or placement. Do not submit student records here."
+  },
+  {
+    "slug": "inventory-orders",
+    "name": "Inventory & Orders",
+    "stage": "exploration",
+    "status": "Exploration",
+    "field": "Commerce operations",
+    "description": "Better visibility across stock, orders and daily operations.",
+    "audience": "Small teams reviewing stock, order and reconciliation processes.",
+    "focus": [
+      "Inventory and order workflow concepts",
+      "Operational visibility and reconciliation",
+      "Lightweight tools for growing teams"
+    ],
+    "limit": "Exploration-stage program. No live inventory synchronization, commerce integration, fulfillment service or guaranteed stock accuracy is demonstrated."
+  }
+]

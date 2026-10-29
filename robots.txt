@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sajeev-m.github.io/autonomous-company-official-site/sitemap.xml
